@@ -1,3 +1,10 @@
+# Descrição do desenvolvimento
+- Nesse projeto em questão a ideia foi mais aprender a organizar um projeto de css e como pensar para desenvolver o projeto.
+<br>
+- Através desse projeto, compreendi como desenvolver um site, regras que facilitam o meu desenvolvimento, o uso do "@import", etc.
+
+---
+
 # Desafio 01: Criando sua primeira Landing Page com HTML e CSS
 
 Bem vindo(a) ao primeiro desafio da Trilha de CSS da DIO! Nela, você vai construir sua primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS,
